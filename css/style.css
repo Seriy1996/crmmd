@@ -1,0 +1,47 @@
+
+/*.container {
+  background: #e3e3e3;
+  margin-bottom: 20px;
+  padding-bottom: 50px;
+}
+#map-canvas {
+max-width: none;
+  	height: 300px;
+	margin: 0;
+	padding: 5px;
+	}
+.search {
+				width: 200px;
+            		}
+@import url(http://fonts.googleapis.com/css?family=Antic+Slab);
+
+/*html,body {
+  height:100%;
+}
+h1 {
+  font-family: 'Antic Slab', serif;
+  font-size:40px;
+}
+/*.top-buffer {
+	 margin-top:140px; /*отступ в *px*/
+}
+
+/*.body {
+ /*  background: #F5F5F5; /* Цвет фона веб-страницы */
+  }
+ /*  A {
+    c olor: #212121; /* Цвет ссылок */
+   }
+ /*A:visited {
+    color: #212121; /* Цвет посещенных ссылок */
+ }
+ /*  A:active {
+    color: #F5F5F5; /* Цвет активных ссылок */
+   }
+}
+
+.header {
+	color: #CCCCCC
+
+.container-default {
+  background: #e3e3e3;
